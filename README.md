@@ -27,8 +27,14 @@ Software developer passionate about creating efficient and robust applications. 
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
 
 
+
+
 ### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/roozbeh-gholami/roozbeh-gholami/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roozbeh-gholami/roozbeh-gholami/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roozbeh-gholami/roozbeh-gholami/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/roozbeh-gholami/roozbeh-gholami/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 🛠️ Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
