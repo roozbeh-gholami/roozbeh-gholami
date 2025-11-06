@@ -28,12 +28,8 @@ Software developer passionate about creating efficient and robust applications. 
 
 
 
-### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roozbeh-gholami/roozbeh-gholami/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roozbeh-gholami/roozbeh-gholami/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/roozbeh-gholami/roozbeh-gholami/output/github-contribution-grid-snake.svg">
-</picture>
+### � GitHub Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roozbeh-gholami&theme=github-compact&hide_border=true)
 
 ## 🛠️ Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
