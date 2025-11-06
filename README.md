@@ -26,8 +26,9 @@ Software developer passionate about creating efficient and robust applications. 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
 
-### Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roozbeh-gholami&theme=redical&hide_border=true)
+
+### 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/roozbeh-gholami/roozbeh-gholami/output/github-contribution-grid-snake-dark.svg)
 
 ## 🛠️ Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
