@@ -28,9 +28,6 @@ Software developer passionate about creating efficient and robust applications. 
 
 
 
-### � GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roozbeh-gholami&theme=github-compact&hide_border=true)
-
 ## 🛠️ Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
