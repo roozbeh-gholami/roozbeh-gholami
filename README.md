@@ -28,7 +28,6 @@ Software developer passionate about creating efficient and robust applications. 
 
 
 
-
 ### 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roozbeh-gholami/roozbeh-gholami/output/github-contribution-grid-snake-dark.svg">
