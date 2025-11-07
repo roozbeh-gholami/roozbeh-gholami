@@ -39,7 +39,7 @@ Software developer passionate about creating efficient and robust applications. 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📫 How to reach me
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/roozbeh-gholami)
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/roozbeh-gholami" target="_blank">Connect with me</a>
 - 📧 Email: gholami[dot]roozbeh70[at]gmail[dot]com
 - 🐱 GitHub: You're already here!
 
